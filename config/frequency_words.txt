@@ -46,40 +46,40 @@ DJI
 刘强东
 
 字节
-bytedance
+字节跳动
 张一鸣
 
 特斯拉
 马斯克
 
 微软
-Microsoft
+微软
 
 英伟达
-NVIDIA
+英伟达
 黄仁勋
 
-AMD
+超威半导体公司
 
 谷歌
-google
-gemini
-deepmind
+谷歌
+双子座
+深度思维
 
-chatgpt
-openai
-sora
+聊天GPT
+开放AI
+索拉
 
-claude
-Anthropic
+克劳德
+人类学
 
-iphone
-ipad
-mac
+苹果手机
+iPad
+苹果电脑
 ios
 
-ai
-!gai
+人工智能
+!同性恋
 人工智能
 
 自动驾驶
@@ -111,3 +111,7 @@ ai
 宇宙
 飞船
 航空
+宁化府
+益源庆
+醋
+老陈醋
